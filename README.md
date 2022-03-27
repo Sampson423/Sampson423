@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Server and Cloud Administration
 - 🌱 I’m currently learning Azure
-- 👯 I’m looking to collaborate on different learning styles
 
 <!--
 **Sampson423/Sampson423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
